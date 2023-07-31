@@ -2,7 +2,7 @@ Game Title: Hunt
 
 Developer: Haojin Xun
 
-Environment: Unity
+Environment: Unity 2021.3.2f1
 
 Date: May-June 2023
 
